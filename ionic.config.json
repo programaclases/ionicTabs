@@ -1,0 +1,7 @@
+{
+  "name": "ventanas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
